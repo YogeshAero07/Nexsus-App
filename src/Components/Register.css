@@ -1,0 +1,406 @@
+/* Register Page Style */
+
+.registerBody {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #222222;
+}
+
+.registerLeft {
+  position: absolute;
+  width: 671px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+
+  background: url(../images/Rectangle\ 12.svg);
+  /* opacity: 0.2; */
+}
+
+.registerLogo > img {
+  position: absolute;
+  width: 50.34px;
+  height: 92px;
+  left: 50px;
+  top: 30px;
+}
+
+.registerHeading > h2 {
+  position: absolute;
+  width: 139px;
+  height: 43px;
+  left: 154px;
+  top: 56.35px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 107.19%;
+  color: #fefefe;
+}
+
+.registerTitle > h3 {
+  position: absolute;
+  width: 364px;
+  height: 153px;
+  left: 89px;
+  top: 160px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 51px;
+  color: #01e1ff;
+}
+
+.registerImage {
+  position: absolute;
+  width: 671px;
+  height: 474px;
+  left: 0px;
+  top: 275px;
+}
+
+.rightHead {
+  position: absolute;
+  width: 176px;
+  height: 30px;
+  left: 917px;
+  top: 220.11px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.registerSocialOne {
+  /* position: absolute; */
+  width: 205px;
+  height: 31px;
+  left: 917px;
+  top: 266px;
+
+  background: #19b5fe;
+  border-radius: 9.46835px;
+}
+
+.registerSocialOne > img {
+  position: absolute;
+  left: 10%;
+  right: 0.98%;
+  top: 17%;
+  bottom: 0%;
+  background: none;
+}
+
+.registerSocialOne > p {
+  /* position: absolute; */
+  width: 140px;
+  height: 21px;
+  left: 963px;
+  top: 271px;
+  margin-top: 4px;
+  margin-left: 46px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.registerSocialTwo > img {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1127px;
+  top: 267px;
+}
+
+.registerSocialThree > img {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1163px;
+  top: 267px;
+}
+
+.orHeading > img {
+  position: absolute;
+  width: 452px;
+  height: 32px;
+  left: 830px;
+  top: 328px;
+}
+
+.username {
+  position: absolute;
+  width: 289px;
+  height: 52px;
+  left: 911px;
+  top: 390px;
+}
+
+.username > p {
+  position: absolute;
+  left: -28%;
+  right: 44.03%;
+  top: 0%;
+  bottom: 59.62%;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.username > input {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 40.38%;
+  bottom: 0%;
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.email > p {
+  position: absolute;
+  width: 41px;
+  height: 21px;
+  left: 1095px;
+  top: 390px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.email > input {
+  position: absolute;
+  width: 145px;
+  height: 28px;
+  left: 1094px;
+  top: 411px;
+
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.password {
+  position: absolute;
+  width: 289px;
+  height: 52px;
+  left: 911px;
+  top: 457px;
+}
+
+.password > p {
+  position: absolute;
+  left: 0%;
+  right: 75.43%;
+  top: 0%;
+  bottom: 59.62%;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.password > input {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 40.38%;
+  bottom: 0%;
+  width: 331px;
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.cpassword {
+  /* position: absolute; */
+  width: 289px;
+  height: 52px;
+  left: 911px;
+  top: 524px;
+}
+
+.cpassword > p {
+  position: absolute;
+  width: 132px;
+  height: 21px;
+  left: 911px;
+  top: 524px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.cpassword > input {
+  position: absolute;
+  width: 331px;
+  height: 28px;
+  left: 911px;
+  top: 545px;
+
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.profession {
+  position: absolute;
+  width: 289px;
+  height: 52px;
+  left: 911px;
+  top: 591px;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.profession > p {
+  /* position: absolute; */
+  width: 76px;
+  height: 21px;
+  left: 911px;
+  top: 591px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.profession > select {
+  /* position: absolute; */
+  width: 331px;
+  height: 31px;
+  left: 911px;
+  top: 612px;
+
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+  color: #ffffff;
+}
+
+.profession > select option {
+  color: #ffffff;
+}
+
+.checkBox {
+  position: absolute;
+  width: 283px;
+  height: 42px;
+  left: 911px;
+  top: 673px;
+}
+
+.ckeckBox > input[type="checkbox"] {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 917px;
+  top: 686px;
+  cursor: pointer;
+  background: rgba(196, 196, 196, 0.3);
+  border: 3px solid rgba(255, 255, 255, 0.8);
+  border-radius: 4px;
+}
+
+.ckeckBox > p {
+  position: absolute;
+  width: 258px;
+  height: 42px;
+  left: 958px;
+  top: 673px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 10px;
+  line-height: 15px;
+  color: #ffffff;
+}
+
+.registerButton {
+  /* position: absolute; */
+  width: 121px;
+  height: 31px;
+  left: 1077px;
+  top: 735px;
+}
+
+.registerButton > div {
+  position: absolute;
+  width: 121px;
+  height: 31px;
+  left: 1077px;
+  top: 735px;
+
+  background: #19b5fe;
+  border-radius: 9.46835px;
+}
+
+.registerButton > a {
+  position: absolute;
+  width: 63px;
+  height: 24px;
+  left: 1106px;
+  top: 739px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.loginRedirect > p {
+  position: absolute;
+  width: 264px;
+  height: 24px;
+  left: 924px;
+  top: 781px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.loginRedirect span > a {
+  text-decoration: none;
+  color: rgb(78, 190, 218);
+  margin-left: 3px;
+}

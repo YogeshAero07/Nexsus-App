@@ -1,0 +1,282 @@
+/* Login Page Syle */
+
+.LoginBody {
+  position: absolute;
+  width: 1440px;
+  height: 1213px;
+  left: 0px;
+  top: 0px;
+  background: url(../images/Rectangle\ 10.svg);
+}
+
+.loginLeft {
+  position: absolute;
+  width: 671px;
+  height: 1213px;
+  left: 0px;
+  top: 0px;
+
+  background: url(../images/Rectangle\ 12.svg);
+  /* opacity: 0.2; */
+}
+
+.leftLogo > img {
+  position: absolute;
+  width: 50.34px;
+  height: 92px;
+  left: 50px;
+  top: 30px;
+}
+
+.leftHeading > h2 {
+  position: absolute;
+  width: 139px;
+  height: 43px;
+  left: 154px;
+  top: 56.35px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 107.19%;
+  /* identical to box height, or 43px */
+
+  color: #fefefe;
+}
+
+.leftTitle > h3 {
+  position: absolute;
+  width: 364px;
+  height: 153px;
+  left: 89px;
+  top: 160px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 51px;
+
+  color: #01e1ff;
+}
+
+.leftImage > img {
+  position: absolute;
+  width: 671px;
+  height: 174px;
+  left: 0px;
+  top: 425px;
+}
+
+.rightHeading > h3 {
+  position: absolute;
+  width: 168px;
+  height: 30px;
+  left: 917px;
+  top: 323.11px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.socialOne {
+  position: absolute;
+  width: 34px;
+  height: 31px;
+  left: 1086px;
+  top: 266px;
+  background: #4a4d4e;
+  border-radius: 9.46835px;
+}
+
+.socialOne > a {
+  /* position: absolute; */
+  width: 140px;
+  height: 21px;
+  left: 963px;
+  top: 271px;
+  margin-left: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.socialTwo > img {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1127px;
+  top: 370px;
+}
+
+.socialThree > img {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1163px;
+  top: 382px;
+}
+
+.midHeading > img {
+  position: absolute;
+  width: 452px;
+  height: 32px;
+  left: 830px;
+  top: 382px;
+}
+
+.loginFirst {
+  position: absolute;
+  width: 289px;
+  height: 52px;
+  left: 911px;
+  top: 464px;
+}
+
+.loginFirst > p {
+  /* position: absolute; */
+  width: 41px;
+  height: 21px;
+  left: 911px;
+  top: 493px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.loginFirst > input {
+  /* position: absolute; */
+  width: 289px;
+  height: 31px;
+  left: 911px;
+  top: 514px;
+
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.loginSecond {
+  position: absolute;
+  width: 292px;
+  height: 103px;
+  left: 911px;
+  top: 546px;
+}
+
+.loginSecond > p {
+  /* position: absolute; */
+  width: 71px;
+  height: 21px;
+  left: 911px;
+  top: 560px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13.7722px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.loginSecond .fPass {
+  /* position: absolute; */
+  width: 98px;
+  height: 16px;
+  left: 1105px;
+  top: 563px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 10.7722px;
+  line-height: 16px;
+
+  color: #01e1ff;
+}
+
+.loginSecond > input {
+  /* position: absolute; */
+  width: 289px;
+  height: 31px;
+  left: 911px;
+  top: 581px;
+
+  background: #4e4e4e;
+  border-radius: 9.46835px;
+  border: 1px solid #00e1ff;
+}
+
+.loginButton {
+  /* position: absolute; */
+  width: 121px;
+  height: 31px;
+  left: 1077px;
+  top: 632px;
+}
+
+.loginButton > div {
+  position: absolute;
+  width: 121px;
+  height: 31px;
+  left: 1077px;
+  top: 632px;
+
+  background: #19b5fe;
+  border-radius: 9.46835px;
+}
+
+.loginButton > a {
+  position: absolute;
+  width: 56px;
+  height: 24px;
+  left: 1110px;
+  top: 636px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.signUp > p {
+  position: absolute;
+  width: 260px;
+  height: 24px;
+  left: 938px;
+  top: 678px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.signUp span > a {
+  text-decoration: none;
+  color: rgb(78, 190, 218);
+  margin-left: 7px;
+}
